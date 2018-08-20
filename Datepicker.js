@@ -25,5 +25,6 @@ describe('Dalelotts date time picker', function () {
         var parent = '//*[@id="inline"]/div[2]/div[1]/div/div';
         dtPicker(parent, '2070/07/27 22:00');
         console.log("Am making the change");
+        Login form
     });
 });
