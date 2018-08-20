@@ -8,6 +8,6 @@ exports.config = {
         multiCapabilities: [{
             browserName: 'chrome'
         }],
-  specs: ['spec.js','Misc.js']
+  specs: ['spec.js']
 }
 
