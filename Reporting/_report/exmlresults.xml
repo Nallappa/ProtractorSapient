@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="1" time="19.966">
+ <testsuite name="Bank Manager Login Test" timestamp="2018-08-28T19:13:55" hostname="localhost" time="19.966" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Bank Manager Login Test" name="Login as Bank Manager" time="19.964" />
+ </testsuite>
+</testsuites>

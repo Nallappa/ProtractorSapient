@@ -1,7 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb7579e4-4be4-4029-b399-3c6ca35639f3" name="Default Changelist" comment="" />
+    <list default="true" id="fb7579e4-4be4-4029-b399-3c6ca35639f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Protractor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects/objcustomerpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/opennewbrowserutil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/waitutil.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/windowhandleutil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeautifulReportingconf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Databaseconnection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Datepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir1/App1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dir2/App2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JasminReportingeconf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Misc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyApp2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf - Copy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runner.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/combined.json" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/combined.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/002a0039-0097-0089-0088-00a900b900c4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/00500099-001a-0050-0073-008a00ae00f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/0054004a-00aa-0022-0098-00b300860084.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/00580022-003c-0097-0070-0095002c00ae.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/006200dc-0051-0077-006b-008c00bf0091.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/008200f6-00bc-00a5-0082-00b000e400da.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/008800ea-00cc-0089-0008-0020003f00b7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/00bf00cd-007b-0065-0061-00d500cb0087.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/00c50042-00cb-009e-00a4-00dc00470037.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/images/00e800b1-00d5-00fb-00d5-0061003f000d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/000d0009-00c7-0093-000d-00a800f400c5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/0019001d-0081-001d-00de-008900ec00ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/002a0039-0097-0089-0088-00a900b900c4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/003e00c9-0079-0027-001d-00bb0091002f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/004200a2-00e1-00d6-0024-00d40006009f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00500099-001a-0050-0073-008a00ae00f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/0054004a-00aa-0022-0098-00b300860084.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00560065-0020-00e2-0021-001400fc00b5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00580022-003c-0097-0070-0095002c00ae.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/006200dc-0051-0077-006b-008c00bf0091.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00700088-0011-00de-0023-00f900260081.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00760054-0051-00cf-0078-00d600610045.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/008200f6-00bc-00a5-0082-00b000e400da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/008800ea-00cc-0089-0008-0020003f00b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/008c001a-0043-00e3-0065-00da006300f7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00bf00cd-007b-0065-0061-00d500cb0087.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00c50042-00cb-009e-00a4-00dc00470037.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00e800b1-00d5-00fb-00d5-0061003f000d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/jsons/00ea0043-00af-0068-009a-000300de0017.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/MyReportName_angularjshomepagetodolist_2018814 151458,428.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/htmlReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/screenshots/screenshots/3aa339e4e9561184ca5aafc4bd8fdabf.png" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,78 +71,121 @@
     <session id="667569306">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.18" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="11" />
+          <entry key="html" value="2" />
+          <entry key="js" value="222" />
+          <entry key="json" value="62" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="11" />
+          <entry key="HTML" value="2" />
+          <entry key="JSON" value="62" />
+          <entry key="JavaScript" value="222" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="486" />
+          <entry key="js" value="5966" />
+          <entry key="json" value="477" />
+          <entry key="ts" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="486" />
+          <entry key="JSON" value="477" />
+          <entry key="JavaScript" value="5966" />
+          <entry key="TypeScript" value="18" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="1" />
+        </counts>
+      </usages-collector>
       <usages-collector id="statistics.spring.boot.mvc.usages" />
       <usages-collector id="statistics.spring.boot.run.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Datepicker.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Misc.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Databaseconnection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="336">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/AddCustomerDetails.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objects/objcustomerpage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1120">
+              <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/dropdownutil.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/ngclickutil.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/locators/addcustomerlocators.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="5" column="43" selection-start-line="5" selection-end-line="5" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/waitutil.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -94,9 +195,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SpecReporter</find>
+      <find>locatoraddcustomerpage</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,10 +216,45 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Misc.js" />
-        <option value="$PROJECT_DIR$/spec.js" />
         <option value="$PROJECT_DIR$/Databaseconnection.js" />
-        <option value="$PROJECT_DIR$/conf.js" />
         <option value="$PROJECT_DIR$/Datepicker.js" />
+        <option value="$PROJECT_DIR$/test_spec/spec.js" />
+        <option value="$PROJECT_DIR$/test_spec/AddCustomerinfospec.js" />
+        <option value="$PROJECT_DIR$/util/select-wrapper.js" />
+        <option value="$PROJECT_DIR$/json/OR.json" />
+        <option value="$PROJECT_DIR$/test_spec/AddCustomerInfoTest_spec.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/pages/BasePage.ts" />
+        <option value="$PROJECT_DIR$/util/customlocators.js" />
+        <option value="$PROJECT_DIR$/conf.js" />
+        <option value="$PROJECT_DIR$/data/Addcustomer.json" />
+        <option value="$PROJECT_DIR$/locators/OR.json" />
+        <option value="$PROJECT_DIR$/data/package.json" />
+        <option value="$PROJECT_DIR$/data/commondata.json" />
+        <option value="$PROJECT_DIR$/test_spec/BankManagerLoginTest_spec.js" />
+        <option value="$PROJECT_DIR$/rough/AddCustomerDetails.js" />
+        <option value="$PROJECT_DIR$/rough/HomePage.js" />
+        <option value="$PROJECT_DIR$/rough/BasePage.js" />
+        <option value="$PROJECT_DIR$/locators/homepagelocators.json" />
+        <option value="$PROJECT_DIR$/util/GenericFunctions.js" />
+        <option value="$PROJECT_DIR$/util/ngclickutil.js" />
+        <option value="$PROJECT_DIR$/util/windowhandleutil.js" />
+        <option value="$PROJECT_DIR$/util/alerthandle.js" />
+        <option value="$PROJECT_DIR$/pages/BasePage.js" />
+        <option value="$PROJECT_DIR$/util/genericfunctions.js" />
+        <option value="$PROJECT_DIR$/util/opennewbrowserutil.js" />
+        <option value="$PROJECT_DIR$/util/verifywebelementutil.js" />
+        <option value="$PROJECT_DIR$/objects/objHomePage.js" />
+        <option value="$PROJECT_DIR$/data/Addcustomerdata.json" />
+        <option value="$PROJECT_DIR$/util/dropdownutil.js" />
+        <option value="$PROJECT_DIR$/pages/AddCustomerDetails.js" />
+        <option value="$PROJECT_DIR$/util/webelementutil.js" />
+        <option value="$PROJECT_DIR$/util/alerthandleutil.js" />
+        <option value="$PROJECT_DIR$/pages/HomePage.js" />
+        <option value="$PROJECT_DIR$/util/waitutil.js" />
+        <option value="$PROJECT_DIR$/spec.js" />
+        <option value="$PROJECT_DIR$/locators/addcustomerlocators.json" />
+        <option value="$PROJECT_DIR$/objects/objcustomerpage.js" />
       </list>
     </option>
   </component>
@@ -118,7 +264,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1448" />
@@ -130,9 +276,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,9 +295,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534755625900" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/conf.js" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536219770264" />
+    <property name="last_opened_file_path" value="$USER_HOME$/DemoTypescript" />
     <property name="nodejs.protractor.protractor_package" value="$USER_HOME$/AppData/Roaming/npm/node_modules/protractor" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2018.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,8 +313,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Protractor.Protractor">
+  <component name="RunManager" selected="Protractor.Test1">
     <configuration name="Protractor" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="$PROJECT_DIR$/conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test1" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="$PROJECT_DIR$/conf.js" />
       <node-interpreter value="project" />
       <envs />
@@ -178,6 +332,7 @@
     <list>
       <item itemvalue="Node.js.Debugging" />
       <item itemvalue="Protractor.Protractor" />
+      <item itemvalue="Protractor.Test1" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -190,50 +345,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1534228378837</updated>
-      <workItem from="1534228391195" duration="19372000" />
+      <workItem from="1534228391195" duration="23479000" />
+      <workItem from="1535094865638" duration="18822000" />
+      <workItem from="1535360018678" duration="96000" />
+      <workItem from="1535462447451" duration="14069000" />
+      <workItem from="1535966017961" duration="5371000" />
+      <workItem from="1536039054716" duration="35000" />
+      <workItem from="1536039270782" duration="42859000" />
+      <workItem from="1536221020029" duration="1196000" />
+      <workItem from="1536224079538" duration="640000" />
+      <workItem from="1536732940074" duration="1280000" />
+      <workItem from="1536830417154" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Protractor - 2018.08.14 at 13h 06m 08s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 19h 55m 59s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.14 at 14h 56m 57s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 19h 56m 26s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 12h 59m 41s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 19h 57m 56s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 49m 12s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 19h 58m 18s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 49m 24s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 19h 59m 11s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 50m 14s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 20h 02m 06s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 52m 57s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 20h 03m 02s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 54m 12s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 20h 03m 42s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 54m 50s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 20h 07m 34s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2018.08.16 at 13h 55m 27s.xml">
-      <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
+    <history-entry file="Test1 - 2018.09.05 at 20h 09m 09s.xml">
+      <configuration name="Test1" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19372000" />
+    <option name="totallyTimeSpent" value="107938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="880" extended-state="7" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="1448" height="880" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19957082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -243,8 +407,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.042049933" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39947438" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07095926" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46911958" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -252,6 +416,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -263,23 +428,23 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19957082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20243205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
+      <window_info id="Learn" order="6" weight="0.3297568" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42312747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29434955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.2890933" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -300,71 +465,198 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/Datepicker.js</url>
-          <line>8</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JavaScriptTestRunnerProtractor">
+        <watch expression="mm" />
+        <watch expression="today" />
+        <watch expression="x" />
+        <watch expression="y" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/protractor/node_modules/selenium-webdriver/http/index.js">
+    <entry file="file://$PROJECT_DIR$/confbasic.js" />
+    <entry file="file://$PROJECT_DIR$/Databaseconnection.js" />
+    <entry file="file://$PROJECT_DIR$/Datepicker.js" />
+    <entry file="file://$PROJECT_DIR$/JasminReportingeconf.js" />
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/log1.txt" />
+    <entry file="file://$PROJECT_DIR$/login.html" />
+    <entry file="file://$PROJECT_DIR$/Misc.js" />
+    <entry file="file://$PROJECT_DIR$/screenshots/Myreport.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_spec/BankManagerspec.js" />
+    <entry file="file://$PROJECT_DIR$/test_spec/spec.js" />
+    <entry file="file://$PROJECT_DIR$/test_spec/AddCustomerinfospec.js" />
+    <entry file="file://$PROJECT_DIR$/test_spec/AddCustomerInfoTest_spec.js" />
+    <entry file="file://$PROJECT_DIR$/conf-main.js" />
+    <entry file="file://$PROJECT_DIR$/conf-experiment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360">
-          <caret line="203" column="21" lean-forward="true" selection-start-line="203" selection-start-column="21" selection-end-line="203" selection-end-column="21" />
+        <state relative-caret-position="304">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/protractor/node_modules/q/q.js">
+    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/protractor/node_modules/selenium-webdriver/lib/promise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1908">
-          <caret line="143" column="78" lean-forward="true" selection-start-line="143" selection-start-column="78" selection-end-line="143" selection-end-column="78" />
+        <state relative-caret-position="176">
+          <caret line="3066" column="26" selection-start-line="3066" selection-start-column="26" selection-end-line="3066" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/BasePage.ts" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json/OR.json" />
+    <entry file="file://$PROJECT_DIR$/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="15" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/OR.json" />
+    <entry file="file://$PROJECT_DIR$/data/Addcustomer.json" />
+    <entry file="file://$PROJECT_DIR$/locators/OR.json" />
+    <entry file="file://$PROJECT_DIR$/data/package.json" />
+    <entry file="file://$PROJECT_DIR$/test_spec/BankManagerLoginTest_spec.js" />
+    <entry file="file://$PROJECT_DIR$/util/select-wrapper.js" />
+    <entry file="file://$PROJECT_DIR$/util/customlocators.js" />
+    <entry file="file://$PROJECT_DIR$/rough/AddCustomerDetails.js" />
+    <entry file="file://$PROJECT_DIR$/rough/BasePage.js" />
+    <entry file="file://$PROJECT_DIR$/rough/HomePage.js" />
+    <entry file="file://$PROJECT_DIR$/util/alerthandle.js" />
+    <entry file="file://$PROJECT_DIR$/pages/BasePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/opennewbrowserutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/genericfunctions.js" />
+    <entry file="file://$PROJECT_DIR$/testspec/BankManagerLoginTest_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/commondata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locators/homepagelocators.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/windowhandleutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/objHomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/HomePage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/verifywebelementutil.js" />
+    <entry file="file://$PROJECT_DIR$/data/Addcustomerdata.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/alerthandleutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/webelementutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="336">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Misc.js">
+    <entry file="file://$PROJECT_DIR$/pages/AddCustomerDetails.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/objcustomerpage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1120">
+          <caret line="70" column="6" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/dropdownutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/ngclickutil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/locators/addcustomerlocators.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="43" selection-start-line="5" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/waitutil.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Databaseconnection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Roaming/npm/node_modules/protractor/built/driverProviders/direct.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Datepicker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
