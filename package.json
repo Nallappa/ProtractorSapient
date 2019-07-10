@@ -1,0 +1,31 @@
+{
+  "name": "example-typescript",
+  "version": "1.0.0",
+  "description": "a typescript example",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/fs-extra": "^5.0.4",
+    "@types/node": "^10.10.1",
+    "jasmine": "^2.4.1",
+    "mysql": "^2.16.0",
+    "protractor": "5.1.2",
+    "request": "^2.88.0",
+    "serenity-js": "^1.10.13",
+    "typescript-cli": "^0.1.0",
+    "winston": "^3.1.0"
+  },
+  "devDependencies": {
+    "@types/core-js": "^0.9.41",
+    "@types/jasmine": "^2.8.8",
+    "@types/jasminewd2": "^2.0.3",
+    "angular-cli": "^1.0.0-beta.28.3",
+    "jasmine-json-test-reporter": "^1.0.0-beta",
+    "npm-run-all": "^4.0.2",
+    "path": "^0.12.7",
+    "protractor-beautiful-reporter": "^1.2.5",
+    "protractor-html-reporter-2": "^1.0.4",
+    "ts-node": "^3.0.2",
+    "typescript": "^2.9.2"
+  }
+}

@@ -22,7 +22,7 @@ beforeAll(function () {
 
 describe('Bank Manager Login Test', function() {
 
-  it('Login as Bank Manager', function() {
+  xit('Login as Bank Manager', function() {
       home.loginAsBankManager();
       Customer.gotoAddCustomer();
       Customer.addCustomerInfo();
@@ -31,7 +31,19 @@ describe('Bank Manager Login Test', function() {
       Customer.gotoSearchCustomer();
       // Customer.validateCustomerRecords();
   });
+
+  
+  it('Login as loginAsCustomer', function() {
+    home.loginAsCustomer();
+    // Customer.gotoAddCustomer();
+    // Customer.addCustomerInfo();
+    // Customer.gotoOpenAccount();
+    // Customer.OpenAccount();
+    // Customer.gotoSearchCustomer();
+    // Customer.validateCustomerRecords();
 });
+  
+}); 
 
 
 

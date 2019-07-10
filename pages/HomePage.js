@@ -18,6 +18,15 @@ module.exports = class Homepage {
             browser.sleep(2000);
             // LoginasBankManager.submit();
     };
+    
+    loginAsCustomer() {
+        browser.sleep(5000);
+        Home.Customer().click();
+        browser.sleep(2000);
+        Home.getname().getText().then(function(text){
+            console.log("your name is" + text)
+        });
+    };
 
 }
 

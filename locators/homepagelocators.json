@@ -1,4 +1,6 @@
 {
   "Customerbutton":"partialButtonText:Customer",
-  "BankManagerbutton":"buttonText:Bank Manager Login"
+  "BankManagerbutton":"buttonText:Bank Manager Login",
+  "yourname":"xpath://div[@class='form-group']//label"
+
 }

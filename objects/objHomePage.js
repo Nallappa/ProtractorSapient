@@ -16,5 +16,15 @@ module.exports = class objHomepage {
         return webutil.Webelementreturn(LocatorsHomepage.BankManagerbutton);
     }
 
+    Customer() {
+        return webutil.Webelementreturn(LocatorsHomepage.Customerbutton);
+
+    }
+    
+    getname() {
+   
+        return webutil.Webelementreturn(LocatorsHomepage.yourname)
+    }
+    
 
 }
